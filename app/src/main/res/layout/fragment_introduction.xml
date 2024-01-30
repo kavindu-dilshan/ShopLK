@@ -37,7 +37,8 @@
         app:layout_constraintBottom_toBottomOf="@id/ellipse"
         android:text="@string/rightAddress"
         android:textAlignment="center"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textSize="35sp" />
 
     <TextView
         android:id="@+id/tvQuality"
