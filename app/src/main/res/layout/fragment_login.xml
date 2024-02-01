@@ -91,7 +91,7 @@
             android:text="Forgot password?"
             android:textColor="@color/black"/>
 
-        <androidx.appcompat.widget.AppCompatButton
+        <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
             android:id="@+id/buttonLoginLogin"
             android:layout_width="0dp"
             android:layout_height="@dimen/mediumButtonHeight"

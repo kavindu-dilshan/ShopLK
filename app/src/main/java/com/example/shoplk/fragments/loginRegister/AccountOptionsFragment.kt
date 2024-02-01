@@ -1,4 +1,4 @@
-package com.example.shoplk.fragments.logintRegister
+package com.example.shoplk.fragments.loginRegister
 
 import androidx.fragment.app.Fragment
 import com.example.shoplk.R
