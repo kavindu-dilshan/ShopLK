@@ -100,7 +100,8 @@
             app:layout_constraintStart_toStartOf="@id/guidelineLoginLeft"
             app:layout_constraintEnd_toEndOf="@id/guidelineLoginRight"
             android:layout_marginTop="15dp"
-            android:text="Login" />
+            android:text="Login"
+            app:spinning_bar_color="@color/white" />
         
         <ImageView
             android:id="@+id/facebookLogin"
